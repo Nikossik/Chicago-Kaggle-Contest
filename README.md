@@ -1,4 +1,5 @@
 # Chicago-Kaggle-Contest
+## **[Dataset](https://yadi.sk/d/e_qHtNW-cN7N0w)**
 *It was my second contest on kaggle. I use here very simple technic. Do not judge strictly <3*
 ____
 ## Case:
@@ -11,5 +12,5 @@ ____
 ____
 ### Prediction
 - To train and predict final result we use logistic regression with grid search for best result
-____
-## **[Dataset](https://yadi.sk/d/e_qHtNW-cN7N0w)**
+
+
